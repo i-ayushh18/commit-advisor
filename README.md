@@ -4,7 +4,7 @@ A terminal-styled chatbot that helps developers write better git commit messages
 
 Describe your change in plain English (or paste a diff) and get 2–3 commit message options back, following the [Conventional Commits](https://www.conventionalcommits.org/) spec — with reasoning for each.
 
-**Live demo:** [your-vercel-url.vercel.app](https://your-vercel-url.vercel.app)
+**Live demo:** [commit-advisor](https://commit-advisor.vercel.app/)
 
 ---
 
